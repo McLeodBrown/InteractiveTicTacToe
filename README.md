@@ -1,4 +1,4 @@
-# InteractiveTicTacToe
+# Interactive Tic Tac Toe
 Program to run interactive tic tac toe game
 
 The goal of this file is to do the following:
